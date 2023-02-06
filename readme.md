@@ -1,2 +1,1 @@
-Hello Git
-I Hate Covid
+An Update of the readme.md
